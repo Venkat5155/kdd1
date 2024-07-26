@@ -6,7 +6,7 @@ Ruchitha Reddy Katta<br>
 Rohith Reddy Alla<br>
 
 
-#Project Introduction:
+#######3Project Introduction
 
 The dataset we are working with comes from a detailed study on Alzheimer's Disease in elderly patients. It includes information on people aged 60 to 90 from different backgrounds and education levels. The data covers a wide range of factors such as BMI, smoking habits, alcohol use, physical activity, diet, sleep quality, medical history, blood pressure, cholesterol levels, cognitive test scores (like MMSE), and various symptoms and diagnoses related to Alzheimer's Disease.
 
