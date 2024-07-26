@@ -29,7 +29,7 @@ What characteristics are most common in people who become diagnosed with Alzheim
 Which of the characteristics can be identified prior to the onset of the disease?
 https://www.nia.nih.gov/health/alzheimers-and-dementia/alzheimers-disease-fact-sheet https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8927715/
 
-###Data Source and Description:
+### Data Source and Description:
 
 The Alzheimer’s Disease Dataset was selected:
 https://www.kaggle.com/datasets/rabieelkharoua/alzheimers-disease-dataset?select=alzheimers_disease_data.csv
